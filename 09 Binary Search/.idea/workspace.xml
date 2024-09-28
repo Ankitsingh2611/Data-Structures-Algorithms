@@ -4,14 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ae8cc37-8095-42bc-847b-21f742d484ea" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4e1a7591-492a-473a-b3dd-f62302864b1f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Search.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ankit/OrderAgnosticBS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08 Linear Search/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../08 Linear Search/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +34,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2mb9OZg8B0ayxdjBBIxFsrNOoUa" />
+  <component name="ProjectId" id="2mhpc7t1RYPZFqEEzLwGyqoDpQW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -94,18 +97,24 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.EvenNumberDigits">
-    <configuration name="EvenNumberDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ankit.EvenNumberDigits" />
-      <module name="Linear Search" />
+  <component name="RunManager" selected="Application.OrderAgnosticBS">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.ankit.BinarySearch" />
+      <module name="Binary Search" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderAgnosticBS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ankit.OrderAgnosticBS" />
+      <module name="Binary Search" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ankit.*" />
@@ -116,76 +125,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ankit.MaxMin" />
-      <module name="Linear Search" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ankit.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Binary Search" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchIn2DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ankit.SearchIn2DArray" />
-      <module name="Linear Search" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ankit.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Binary Search" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchInRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ankit.SearchInRange" />
-      <module name="Linear Search" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ankit.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SearchInStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ankit.SearchInStrings" />
-      <module name="Linear Search" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ankit.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.OrderAgnosticBS" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EvenNumberDigits" />
-        <item itemvalue="Application.SearchIn2DArray" />
-        <item itemvalue="Application.MaxMin" />
-        <item itemvalue="Application.SearchInRange" />
-        <item itemvalue="Application.SearchInStrings" />
+        <item itemvalue="Application.OrderAgnosticBS" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2ae8cc37-8095-42bc-847b-21f742d484ea" name="Changes" comment="" />
-      <created>1727334379097</created>
+      <changelist id="4e1a7591-492a-473a-b3dd-f62302864b1f" name="Changes" comment="" />
+      <created>1727538747397</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1727334379097</updated>
+      <updated>1727538747397</updated>
     </task>
     <servers />
   </component>
