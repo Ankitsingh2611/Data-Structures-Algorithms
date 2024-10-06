@@ -5,16 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e1a7591-492a-473a-b3dd-f62302864b1f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Search.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ankit/OrderAgnosticBS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../08 Linear Search/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../08 Linear Search/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ankit/Ceiling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ankit/FirstLastPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ankit/Floor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ankit/InfiniteArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ankit/Mountain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ankit/RBS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ankit/RotationCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ankit/RowColMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ankit/SearchInMountain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ankit/SmallestLetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ankit/SortedMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,13 +103,42 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.OrderAgnosticBS">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.ankit.BinarySearch" />
+  <component name="RunManager" selected="Application.InfiniteArray">
+    <configuration name="Ceiling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ankit.Ceiling" />
       <module name="Binary Search" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ankit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Floor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ankit.Floor" />
+      <module name="Binary Search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ankit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InfiniteArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ankit.InfiniteArray" />
+      <module name="Binary Search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ankit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -125,27 +156,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
+    <configuration name="SmallestLetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ankit.SmallestLetter" />
       <module name="Binary Search" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="Binary Search" />
-      <option name="filePath" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ankit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.OrderAgnosticBS" />
+      <item itemvalue="Application.Ceiling" />
+      <item itemvalue="Application.Floor" />
+      <item itemvalue="Application.SmallestLetter" />
+      <item itemvalue="Application.InfiniteArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InfiniteArray" />
+        <item itemvalue="Application.SmallestLetter" />
+        <item itemvalue="Application.Floor" />
+        <item itemvalue="Application.Ceiling" />
         <item itemvalue="Application.OrderAgnosticBS" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
