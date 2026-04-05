@@ -1,0 +1,6 @@
+
+q
+java:S1215	"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“8•Ÿ€ó¢2
+¦
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(Æ¸Û‚øÿÿÿÿ8¡õóò¢2J$2d902756-edfe-4f7c-9712-782ec8819e82
+p	java:S108")Either remove or fill this block of code.(Æ¸Û‚øÿÿÿÿ8¢õóò¢2J$fbf4d1ad-6ecf-4d3a-8ac7-4a42d7974057

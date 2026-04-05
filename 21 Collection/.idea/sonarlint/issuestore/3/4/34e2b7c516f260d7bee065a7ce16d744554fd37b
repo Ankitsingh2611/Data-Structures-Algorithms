@@ -1,0 +1,12 @@
+
+r
+java:S1149
+"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ8æ·çØ 2
+U
+java:S1481"3Remove this unused "removedElement" local variable.(İåóÜşÿÿÿÿ8è·çØ 2
+J
+java:S2201("(The return value of "size" must be used.(ÿˆ¤Íıÿÿÿÿ8ê·çØ 2
+H
+java:S2201)"+The return value of "isEmpty" must be used.(Ç”ºÚ8ê·çØ 2
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ì·çØ 2

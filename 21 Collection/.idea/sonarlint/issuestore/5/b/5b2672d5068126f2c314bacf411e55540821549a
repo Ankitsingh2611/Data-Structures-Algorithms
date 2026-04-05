@@ -1,0 +1,8 @@
+
+ž
+java:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(´Ë‰ßýÿÿÿÿ8”¿«Ù¥2J$4f4ad48a-2770-4149-8c27-01de02376a49
+~	java:S125"<This block of commented-out lines of code should be removed.(„µ¢®8Ó’¦Ù¥2J$629a83d9-b25a-42ce-b18a-bbe09128e28b
+¡
+java:S2142+"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ÖŒ¥Ù¥2J$6e0892c8-a7d4-4844-a952-dfd435989a31
+v
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8•ª¬Ù¥2J$33ec7cde-bff6-4553-8853-828f8f24c3ef

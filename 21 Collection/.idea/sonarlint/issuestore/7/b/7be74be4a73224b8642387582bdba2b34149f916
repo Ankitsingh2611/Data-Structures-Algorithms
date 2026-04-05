@@ -1,0 +1,12 @@
+
+j
+java:S2201"'The return value of "get" must be used.(®·ÍÒ8Æ­š½¥2J$bea33bab-f9e8-439d-9571-33bc3905d858
+r
+java:S2201"/The return value of "containsKey" must be used.(Âó8Æ­š½¥2J$f87b3bc0-5c48-42e1-8436-1f5e52930c99
+t
+java:S2201"1The return value of "containsValue" must be used.(éªâ‡8Æ­š½¥2J$6a4e43c5-e913-4061-8be8-6c70ae13debf
+Œ
+java:S2175"IA "SortedMap<Integer, String>" cannot contain a "int" in a "String" type.(éªâ‡8Æ­š½¥2J$2465215b-8300-42b2-bcc3-8357b268a780
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(÷¦†èıÿÿÿÿ8Æ­š½¥2J$3630748d-74ae-473e-adaa-9897782466fd
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8ÜÄ½¥2
