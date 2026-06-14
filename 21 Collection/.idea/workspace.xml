@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="365ed374-6696-47fb-afaa-534b37d4e8d5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../19 Maths/out/production/20 OOP/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../19 Maths/out/production/20 OOP/WrapperExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../19 Maths/out/production/20 OOP/WrapperExample.class" afterDir="false" />
-    </list>
+    <list default="true" id="365ed374-6696-47fb-afaa-534b37d4e8d5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +32,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
+    <property name="settings.editor.selected.configurable" value="build.tools" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
